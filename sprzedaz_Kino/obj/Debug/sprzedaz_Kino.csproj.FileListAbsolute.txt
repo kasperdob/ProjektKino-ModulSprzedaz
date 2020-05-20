@@ -1,0 +1,41 @@
+C:\Users\kaspe\source\repos\sprzedaz_Kino\sprzedaz_Kino\bin\Debug\sprzedaz_Kino.exe.config
+C:\Users\kaspe\source\repos\sprzedaz_Kino\sprzedaz_Kino\bin\Debug\sprzedaz_Kino.exe
+C:\Users\kaspe\source\repos\sprzedaz_Kino\sprzedaz_Kino\bin\Debug\sprzedaz_Kino.pdb
+C:\Users\kaspe\source\repos\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.csprojAssemblyReference.cache
+C:\Users\kaspe\source\repos\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.Form1.resources
+C:\Users\kaspe\source\repos\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.FormNoweZamowienie.resources
+C:\Users\kaspe\source\repos\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.Properties.Resources.resources
+C:\Users\kaspe\source\repos\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.csproj.GenerateResource.cache
+C:\Users\kaspe\source\repos\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\source\repos\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.exe
+C:\Users\kaspe\source\repos\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.pdb
+C:\Users\kaspe\source\repos\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.FormProdukt.resources
+C:\Users\kaspe\Desktop\sprzedaz_Kino\sprzedaz_Kino\bin\Debug\sprzedaz_Kino.exe.config
+C:\Users\kaspe\Desktop\sprzedaz_Kino\sprzedaz_Kino\bin\Debug\sprzedaz_Kino.exe
+C:\Users\kaspe\Desktop\sprzedaz_Kino\sprzedaz_Kino\bin\Debug\sprzedaz_Kino.pdb
+C:\Users\kaspe\Desktop\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.FormMain.resources
+C:\Users\kaspe\Desktop\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.FormPanel.resources
+C:\Users\kaspe\Desktop\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.FormProdukt.resources
+C:\Users\kaspe\Desktop\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.Properties.Resources.resources
+C:\Users\kaspe\Desktop\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.csproj.GenerateResource.cache
+C:\Users\kaspe\Desktop\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\Desktop\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.exe
+C:\Users\kaspe\Desktop\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.pdb
+C:\Users\kaspe\Desktop\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.Mouły.ManagmentPanel.resources
+C:\Users\kaspe\Desktop\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.Mouły.NoweZamowienie.resources
+C:\Users\kaspe\Desktop\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.csprojAssemblyReference.cache
+C:\Users\kaspe\Desktop\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.Forms.FormMessage.resources
+C:\Users\kaspe\Desktop\Nowy folder\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.Forms.FormMessage.resources
+C:\Users\kaspe\Desktop\Nowy folder\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.FormMain.resources
+C:\Users\kaspe\Desktop\Nowy folder\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.FormPanel.resources
+C:\Users\kaspe\Desktop\Nowy folder\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.FormProdukt.resources
+C:\Users\kaspe\Desktop\Nowy folder\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.Mouły.ManagmentPanel.resources
+C:\Users\kaspe\Desktop\Nowy folder\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.Mouły.NoweZamowienie.resources
+C:\Users\kaspe\Desktop\Nowy folder\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.Properties.Resources.resources
+C:\Users\kaspe\Desktop\Nowy folder\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.csproj.GenerateResource.cache
+C:\Users\kaspe\Desktop\Nowy folder\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\Desktop\Nowy folder\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.exe
+C:\Users\kaspe\Desktop\Nowy folder\sprzedaz_Kino\sprzedaz_Kino\obj\Debug\sprzedaz_Kino.pdb
+C:\Users\kaspe\Desktop\Nowy folder\sprzedaz_Kino\sprzedaz_Kino\bin\Debug\sprzedaz_Kino.exe.config
+C:\Users\kaspe\Desktop\Nowy folder\sprzedaz_Kino\sprzedaz_Kino\bin\Debug\sprzedaz_Kino.exe
+C:\Users\kaspe\Desktop\Nowy folder\sprzedaz_Kino\sprzedaz_Kino\bin\Debug\sprzedaz_Kino.pdb
