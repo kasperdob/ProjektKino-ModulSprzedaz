@@ -29,6 +29,7 @@ namespace sprzedaz_Kino
 
         private void buttonManagmentPanel_Click(object sender, EventArgs e)
         {
+            throw new System.ArgumentException("Taki Błąd HEHEHE", "Niespodziewany błąd ");
             ManagmentPanel managmentPanel = new ManagmentPanel();
             managmentPanel.ShowDialog();
         }
