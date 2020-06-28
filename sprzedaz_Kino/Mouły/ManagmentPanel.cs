@@ -25,6 +25,7 @@ namespace sprzedaz_Kino.Mouły
         {
             DgvRefresh();
             Dgv2Refresh();
+            CLERA();
         }
 
         private void AddProdukt_Click(object sender, EventArgs e)
